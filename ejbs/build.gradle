@@ -18,7 +18,7 @@ repositories {
 
 dependencies {    
     
-    compile group: 'javax', name: 'javaee-web-api', version: '8.0.1'
-    compile group: 'javax.jws', name: 'jsr181-api', version: '1.0-MR1'
+    compileOnly group: 'javax', name: 'javaee-web-api', version: '8.0.1'
+    compileOnly group: 'javax.jws', name: 'jsr181-api', version: '1.0-MR1'
 
 }
