@@ -1,0 +1,6 @@
+ConverterJavaApplicationConventionsPlugin.java
+ ConverterJavaApplicationConventionsPlugin
+ConverterJavaLibraryConventionsPlugin.java
+ ConverterJavaLibraryConventionsPlugin
+ConverterJavaCommonConventionsPlugin.java
+ ConverterJavaCommonConventionsPlugin

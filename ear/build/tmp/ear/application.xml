@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="null">
+  <display-name></display-name>
+  <module>
+    <ejb>ejbs.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>app.war</web-uri>
+      <context-root>app</context-root>
+    </web>
+  </module>
+  <library-directory>lib</library-directory>
+</application>

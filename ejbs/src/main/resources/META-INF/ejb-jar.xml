@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ejb-jar xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+        version="3.2"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/ejb-jar_3_2.xsd">
+    <enterprise-beans>
+        <session id="SomeSession">            
+            <ejb-name>MyConverter</ejb-name>
+            <local-home>com.gft.beans.NumberConverterLocalHome</local-home>
+            <local>com.gft.beans.NumberConverterLocal</local>
+            <ejb-class>com.gft.beans.NumberConverterBean</ejb-class>     
+            <session-type>Stateless</session-type>       
+            <transaction-type>Container</transaction-type>
+        </session>
+    </enterprise-beans>       
+
+</ejb-jar>
