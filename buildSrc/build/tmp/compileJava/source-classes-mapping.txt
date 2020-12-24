@@ -1,3 +1,5 @@
+ConverterJavaeeConventionsPlugin.java
+ ConverterJavaeeConventionsPlugin
 ConverterJavaApplicationConventionsPlugin.java
  ConverterJavaApplicationConventionsPlugin
 ConverterJavaLibraryConventionsPlugin.java

@@ -1,0 +1,13 @@
+plugins {
+    id 'converter.javaee-conventions'
+    id 'war'
+}
+
+dependencies {
+    compileOnly project(':ejbs')
+}
+
+war {
+    archivesBaseName = "appl"
+}
+

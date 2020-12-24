@@ -1,0 +1,10 @@
+plugins {
+    id 'converter.java-library-conventions'
+}
+
+
+dependencies {
+    compileOnly group: 'javax', name: 'javaee-web-api', version: '8.0.1'
+    compileOnly group: 'javax.jws', name: 'jsr181-api', version: '1.0-MR1'
+}
+

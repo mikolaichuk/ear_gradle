@@ -1,24 +1,24 @@
-converter/ejbs/com/gft/beans/generated/ObjectFactory.java
- com.gft.beans.generated.ObjectFactory
-converter/ejbs/com/gft/beans/NumberConverterLocalHome.java
- com.gft.beans.NumberConverterLocalHome
-converter/ejbs/com/gft/beans/generated/NumberConversionSoapType.java
- com.gft.beans.generated.NumberConversionSoapType
-converter/ejbs/com/gft/beans/NumberConversionClientBean.java
- com.gft.beans.NumberConversionClientBean
-converter/ejbs/com/gft/beans/NumberConverterBean.java
- com.gft.beans.NumberConverterBean
-converter/ejbs/com/gft/beans/generated/NumberConversion.java
- com.gft.beans.generated.NumberConversion
-converter/ejbs/com/gft/beans/generated/NumberToDollarsResponse.java
- com.gft.beans.generated.NumberToDollarsResponse
-converter/ejbs/com/gft/beans/generated/NumberToWordsResponse.java
- com.gft.beans.generated.NumberToWordsResponse
-converter/ejbs/com/gft/beans/NumberConversionClientBeanLocal.java
- com.gft.beans.NumberConversionClientBeanLocal
-converter/ejbs/com/gft/beans/NumberConverterLocal.java
- com.gft.beans.NumberConverterLocal
-converter/ejbs/com/gft/beans/generated/NumberToDollars.java
- com.gft.beans.generated.NumberToDollars
-converter/ejbs/com/gft/beans/generated/NumberToWords.java
+com/gft/beans/generated/NumberToWords.java
  com.gft.beans.generated.NumberToWords
+com/gft/beans/generated/ObjectFactory.java
+ com.gft.beans.generated.ObjectFactory
+com/gft/beans/NumberConverterLocal.java
+ com.gft.beans.NumberConverterLocal
+com/gft/beans/NumberConverterLocalHome.java
+ com.gft.beans.NumberConverterLocalHome
+com/gft/beans/generated/NumberConversion.java
+ com.gft.beans.generated.NumberConversion
+com/gft/beans/generated/NumberConversionSoapType.java
+ com.gft.beans.generated.NumberConversionSoapType
+com/gft/beans/NumberConverterBean.java
+ com.gft.beans.NumberConverterBean
+com/gft/beans/NumberConversionClientBeanLocal.java
+ com.gft.beans.NumberConversionClientBeanLocal
+com/gft/beans/generated/NumberToDollars.java
+ com.gft.beans.generated.NumberToDollars
+com/gft/beans/generated/NumberToDollarsResponse.java
+ com.gft.beans.generated.NumberToDollarsResponse
+com/gft/beans/NumberConversionClientBean.java
+ com.gft.beans.NumberConversionClientBean
+com/gft/beans/generated/NumberToWordsResponse.java
+ com.gft.beans.generated.NumberToWordsResponse

@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'converter'
-include('ear', 'appl', 'ejbs')
+include('ear', 'web', 'ejbs')

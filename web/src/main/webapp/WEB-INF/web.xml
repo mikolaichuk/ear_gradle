@@ -16,7 +16,7 @@
     <ejb-local-ref>
         <ejb-ref-name>MyConverter</ejb-ref-name>
         <ejb-ref-type>Session</ejb-ref-type>
-        <local-home>com.gft.beans.NumberConverterLocalHome</local-home>
-        <local>com.gft.beans.NumberConverterLocal</local>
+        <local-home>NumberConverterLocalHome</local-home>
+        <local>NumberConverterLocal</local>
     </ejb-local-ref>
 </web-app>
